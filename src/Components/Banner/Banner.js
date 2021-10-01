@@ -9,8 +9,9 @@ function Banner() {
                     <button className="button">Play</button>
                     <button className="button">My list</button>
                 </div>
-                <h1 className="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, nemo illum. Ullam quas earum velit voluptas perspiciatis ducimus obcaecati dolore reiciendis accusam</h1>
+                <h1 className="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, nemo illum. Ullam quas earum velit voluptas</h1>
             </div>
+            <div className="fade_bottom"></div>
             
         </div>
     )
